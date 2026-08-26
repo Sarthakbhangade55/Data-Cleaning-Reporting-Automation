@@ -1,0 +1,18 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Sales,Payment_Method
+ORD001,2026-01-05,Rahul,Laptop,Electronics,North,2.0,55000,110000.0,UPI
+ORD002,2026-01-07,Priya,Mobile,Electronics,South,1.0,25000,25000.0,Card
+ORD003,2026/01/10,Amit,laptop,electronics,WEST,3.0,55000,165000.0,upi
+ORD004,10-01-2026,Sneha,MOBILE, Electronics ,West,,25000,,Cash
+ORD005,2026-01-15,Rohan,Tablet,Electronics,East,2.0,30000,60000.0,CARD
+ORD006,2026-01-18,Neha,Headphones,Accessories,north,4.0,3000,12000.0,UPI
+ORD007,,Akash,Laptop,Electronics,South,1.0,55000,55000.0,Cash
+ORD008,2026-01-22,Pooja,tablet,electronics,East,2.0,30000,60000.0,card
+ORD009,2026-01-25,Vikas,Mobile,Electronics,WEST,3.0,25000,75000.0,UPI
+ORD010,2026-01-27,,Laptop,Electronics,North,2.0,55000,110000.0,Cash
+ORD011,2026-02-01,Anjali,Headphones,Accessories,South,5.0,3000,15000.0,Card
+ORD012,,Kiran,Mobile,Electronics,East,1.0,25000,25000.0,UPI
+ORD013,2026-02-05,Sameer,Laptop,Electronics,North,,55000,,
+ORD014,2026-02-08,Meena,Tablet,Electronics,West,2.0,30000,60000.0,Cash
+ORD015,2026-02-10,Ravi,Mobile,Electronics,,3.0,25000,75000.0,card
+ORD005,2026-01-15,Rohan,Tablet,Electronics,East,2.0,30000,60000.0,Cash
+ORD003,2026/01/10,Amit,laptop,electronics,WEST,3.0,55000,165000.0,upi

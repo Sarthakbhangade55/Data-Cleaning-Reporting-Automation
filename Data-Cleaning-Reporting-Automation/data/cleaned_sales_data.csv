@@ -1,0 +1,17 @@
+Order_ID,Order_Date,Customer,Product,Category,Region,Quantity,Unit_Price,Sales,Payment_Method
+ORD011,2026-01-02,Anjali,Headphones,Accessories,South,5.0,3000,15000.0,Card
+ORD001,2026-05-01,Rahul,Laptop,Electronics,North,2.0,55000,110000.0,Upi
+ORD013,2026-05-02,Sameer,Laptop,Electronics,North,2.0,55000,60000.0,Unknown
+ORD002,2026-07-01,Priya,Mobile,Electronics,South,1.0,25000,25000.0,Card
+ORD003,2026-07-01,Amit,Laptop,Electronics,West,3.0,55000,165000.0,Upi
+ORD004,2026-07-01,Sneha,Mobile,Electronics,West,2.0,25000,60000.0,Cash
+ORD005,2026-07-01,Rohan,Tablet,Electronics,East,2.0,30000,60000.0,Card
+ORD006,2026-07-01,Neha,Headphones,Accessories,North,4.0,3000,12000.0,Upi
+ORD007,2026-07-01,Akash,Laptop,Electronics,South,1.0,55000,55000.0,Cash
+ORD008,2026-07-01,Pooja,Tablet,Electronics,East,2.0,30000,60000.0,Card
+ORD009,2026-07-01,Vikas,Mobile,Electronics,West,3.0,25000,75000.0,Upi
+ORD010,2026-07-01,Unknown,Laptop,Electronics,North,2.0,55000,110000.0,Cash
+ORD012,2026-07-01,Kiran,Mobile,Electronics,East,1.0,25000,25000.0,Upi
+ORD005,2026-07-01,Rohan,Tablet,Electronics,East,2.0,30000,60000.0,Cash
+ORD014,2026-08-02,Meena,Tablet,Electronics,West,2.0,30000,60000.0,Cash
+ORD015,2026-10-02,Ravi,Mobile,Electronics,Unknown,3.0,25000,75000.0,Card
