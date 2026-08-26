@@ -2,14 +2,6 @@
 
 > **An automated Python-based data preprocessing, analysis, visualization, and reporting workflow.**
 
-## 👨‍💻 Author
-
-**Sarthak Bhangade**
-B.Tech – Artificial Intelligence & Data Science
-Sanjivani University | 2024–2028
-
----
-
 ## 📌 Project Overview
 
 **Data Cleaning & Reporting Automation** is an end-to-end Python project developed to automate common data preprocessing and reporting tasks.
